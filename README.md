@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinicius Lisboa</h1>
 <h3 align="center">A passionate Data Analyst and Scientist from Brazil</h3>
 
-- 🔭 I’m currently working on [Eleflow Big Data](eleflow.com.br)
+- 🔭 I’m currently working on [Eleflow Big Data](eleflow.com.br) and [Americanas SA](americanas.com.br)
 
-- 🌱 I’m currently learning the **Omnistack (NodeJS & ReactJS)**
+- 🏆 I’m certified by AWS, Microsoft/Azure, Databricks, Google and Meta
+
+- 🌱 I’m currently learning **NodeJS, ReactJS and Databricks**
 
 - 👯 I’m looking to collaborate on **volunteer work**
 
