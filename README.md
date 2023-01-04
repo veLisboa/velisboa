@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Lisboa</h1>
-<h3 align="center">A passionate Data Analyst and Scientist from Brazil</h3>
+<h3 align="center">A enthusiastic Data Analyst and Scientist from Brazil</h3>
 
 - 🔭 I’m currently working on [Eleflow Big Data](eleflow.com.br) and [Americanas SA](americanas.com.br)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects will be available soon
 
-- 💬 Ask me about the **Data World**
+- 💬 Ask me about the **Data World** 
 
 - 📫 How to reach me **ve.lisboa@icloud.com**
 
