@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **I play 6 musical instruments**
 
+- ⚡ Currently holding these **11 certifications**
+<img src="https://media.licdn.com/dms/image/D4D16AQEbjJNXpWHomQ/profile-displaybackgroundimage-shrink_350_1400/0/1672924977427?e=1678320000&v=beta&t=BQByymMQPdwo70mCzorkxZD56q2Uy1obAiB3hGFKczM" align="left"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/vinicius lisboa" target="blank">
