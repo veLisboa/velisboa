@@ -1,41 +1,49 @@
 <h1 align="center">Hi 👋, I'm Vinicius Lisboa</h1>
-<h3 align="center">A enthusiastic Data Analyst and Scientist from Brazil</h3>
+<h3 align="center">Data & AI Tech Lead | Microsoft Certified Trainer | 15+ Certifications</h3>
 
-- 🔭 I’m currently working on [Eleflow Big Data](eleflow.com.br) and [Americanas SA](americanas.com.br)
+- 🔭 I’m currently working at **UPBI Data & AI** leading Data, Analytics and AI initiatives and also teaching Microsoft Official courses at **Great Learning**
 
-- 🏆 I’m certified by AWS, Microsoft/Azure, Databricks, Google and Meta
+- 🧠 **Data Tech Lead** focused on **Lakehouse Architectures, AI Products and Data Platforms**
 
-- 🌱 I’m currently learning **NodeJS, ReactJS and Databricks**
+- 🌎 **Microsoft Certified Trainer (MCT)** teaching Data & AI courses to **5,000+ professionals worldwide**
 
-- 👯 I’m looking to collaborate on **volunteer work**
+- 🏆 Certified across **Microsoft Azure, Databricks and AWS**
 
-- 👨‍💻 All of my projects will be available soon
+- ☁️ Experienced in **multi-cloud architectures (Azure, AWS, GCP)**
 
-- 💬 Ask me about the **Data World** 
+- 🌱 I’m currently learning **NodeJS, ReactJS and advanced Databricks engineering**
+
+- 👯 I’m looking to collaborate on **open-source data and AI projects**
+
+- 👨‍💻 Projects related to **Data Platforms, AI Agents, Lakehouse Architecture and Analytics Engineering** will be published here
+
+- 💬 Ask me about **Data Engineering, Lakehouses, Analytics Architecture, AI for Data**
 
 - 📫 How to reach me **ve.lisboa@icloud.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vini-lisboa/](https://www.linkedin.com/in/vini-lisboa/)
+- 📄 Know about my experiences:  
+  **https://www.linkedin.com/in/vini-lisboa/**
 
 - ⚡ Fun fact **I play 6 musical instruments**
 
-- ⚡ Currently holding these **11 certifications**
+- 🎓 Currently holding **15+ professional certifications**
+
 <img src="https://media.licdn.com/dms/image/D4D16AQEbjJNXpWHomQ/profile-displaybackgroundimage-shrink_350_1400/0/1672924977427?e=1678320000&v=beta&t=BQByymMQPdwo70mCzorkxZD56q2Uy1obAiB3hGFKczM" align="left"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/vinicius lisboa" target="blank">
+    <a href="https://linkedin.com/in/vini-lisboa" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius lisboa" height="30" width="40" />
     </a>
 </p>
 
 <h3 align="left">Tech:</h3>
 <p align="left"> 
-    <h4 align="left">Cloud Service Providers:</h4>
+    <h4 align="left">Cloud Platforms:</h4>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="aws" width="40" height="40"/> 
     </a> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> 
         <img src="https://swimburger.net/media/0zcpmk1b/azure.jpg" alt="azure" width="40" height="40"/> 
     </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
@@ -62,19 +70,13 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+    <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
     </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a>
-    <h4 align="left">Analytics:</h4>
+    <h4 align="left">Data & AI</h4>
     <a href="https://databricks.com" target="_blank" rel="noreferrer"> 
         <img src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" alt="databricks" width="40" height="40"/> 
     </a>
@@ -82,33 +84,14 @@
         <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> 
     </a> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a>     
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
     </a>
-    <h4 align="left">Business Intelligence:</h4>
+    <h4 align="left">Business Intelligence</h4>
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="pbi" width="40" height="40"/> 
     </a>
-    <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://play-lh.googleusercontent.com/2ECNdTd7ypl2nKKi8pUPglRl7TGi7_konvNOzIW0WwKmsw-vea_FSz95hBGrjRVBMw" alt="qliksense" width="40" height="40"/> 
-    </a>
-    <h4 align="left">More:</h4> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a>  
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-    </a>
+    <h4 align="left">Tools</h4> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
 </p>
-
